@@ -1,48 +1,26 @@
-<h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">Fullstack Developer from Germany</h3>
+![Retro Anime Computer GIF](https://media0.giphy.com/media/323ZMyEWEqmhq5ZpTB/giphy.gif)
 
-<p align="center">
-  <a href="https://twitter.com/brandonagil" target="blank">
-    <img src="https://img.shields.io/twitter/follow/brandonagil?logo=twitter&style=for-the-badge" alt="brandonagil" />
-  </a>
-</p>
+# Hi 👋, I'm Brandon
+### Fullstack Developer from Germany
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/brandonagil?logo=twitter&style=for-the-badge)](https://twitter.com/brandonagil)
 
 - 🌱 I’m currently learning **React, React Native**
 - 📝 I regularly write articles on [brandonagil.tech](brandonagil.tech)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/brandonagil" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brandonagil" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/brandonagil" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonagil" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/brandonagil" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brandonagil" height="30" width="40" />
-  </a>
-</p>
+### Connect with me:
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/brandonagil)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/brandonagil)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/brandonagil)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <!-- Ihre Tool- und Sprach-Icons hier -->
-</p>
+### Languages and Tools:
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<!-- Fügen Sie hier weitere Tool- und Sprach-Icons hinzu -->
 
-<h3 align="center">Support:</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/brandonagil">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brandonagil" />
-  </a>
-</p>
+### Support:
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/brandonagil)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonagil&show_icons=true&locale=en&layout=compact" alt="brandonagil" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandonagil&show_icons=true&locale=en" alt="brandonagil" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonagil&" alt="brandonagil" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=brandonagil&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandonagil&show_icons=true&locale=en)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=brandonagil&)
