@@ -1,7 +1,7 @@
 ![Retro Anime Computer GIF](https://media0.giphy.com/media/323ZMyEWEqmhq5ZpTB/giphy.gif)
 
 # 💫 About Me:
-🔭 I'm currently working on Peakperform, an AI-enhanced React app.
+🔭 I'm currently working on PathPlanner.io, an AI-powered travel planner.
 
 
 
