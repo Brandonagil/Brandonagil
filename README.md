@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 I'm currently working on PathPlanner.io, an AI-powered travel planner. <br>
-👨🏿‍🎓Studying CS at Stuttgart Media University.
+
 
 
 
