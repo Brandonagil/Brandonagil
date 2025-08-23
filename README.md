@@ -40,12 +40,6 @@ I'm a developer specializing in **Large Language Model agents** and **Retrieval-
 </p>
 
 ## GitHub Activity
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandonagil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <div align="center">
   <img src="https://github.com/Brandonagil/Brandonagil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
