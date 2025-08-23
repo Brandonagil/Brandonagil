@@ -1,19 +1,25 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/323ZMyEWEqmhq5ZpTB/giphy.gif" alt="Retro Anime Computer GIF" height="180" />
-  <h1>Brandon Agil</h1>
-  <p><strong>Working on LLM agents and RAG</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Working%20on%20LLM%20agents&fontSize=42&fontColor=fff&animation=twinkling" alt="Header" />
+  
+  <p align="center">
+    ⭐⭐⭐⭐⭐ <strong>4.8/5</strong> <em>(19 reviews)</em>
+  </p>
+  
   <p>
     <a href="https://linkedin.com/in/brandonagil">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/brandonagil">
-      <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://twitter.com/brandonagil">
-      <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    <a href="https://upwork.com/freelancers/brandonagil">
+      <img src="https://img.shields.io/badge/Upwork-6FDA44.svg?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
     </a>
   </p>
 </div>
+
+---
+
+## About Me
+
+I'm a passionate developer specializing in **Large Language Model (LLM) agents** and **Retrieval-Augmented Generation (RAG)** systems. My focus is on building intelligent applications that leverage the power of AI to solve complex problems and enhance user experiences.
 
 ## Tech Stack
 <p align="center">
@@ -33,12 +39,18 @@
   <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=000" alt="Cloud Firestore" />
 </p>
 
-## Open-source stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brandonagil&show_icons=true&hide_title=true&hide_border=true" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Brandonagil&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonagil&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
-</p>
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandonagil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandonagil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Brandonagil/Brandonagil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## Support
 <p align="center">
