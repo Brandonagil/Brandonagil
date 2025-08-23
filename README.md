@@ -1,10 +1,5 @@
 ![Retro Anime Computer GIF](https://media0.giphy.com/media/323ZMyEWEqmhq5ZpTB/giphy.gif)
 
-currently working on PathPlanner.io, an AI-powered travel planner. <br>
-
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brandonagil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandonagil) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/brandonagil) 
 
