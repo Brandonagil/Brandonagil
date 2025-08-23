@@ -4,11 +4,6 @@ HEY!
 
 workign on LLM agents and RAG
 
-## Links
-- Instagram: https://instagram.com/brandonagil  
-- LinkedIn: https://linkedin.com/in/brandonagil  
-- Twitter: https://twitter.com/brandonagil
-
 ## Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
