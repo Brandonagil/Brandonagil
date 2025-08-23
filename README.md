@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a passionate developer specializing in **Large Language Model (LLM) agents** and **Retrieval-Augmented Generation (RAG)** systems. My focus is on building intelligent applications that leverage the power of AI to solve complex problems and enhance user experiences.
+I'm a developer specializing in **Large Language Model agents** and **Retrieval-Augmented Generation** systems
 
 ## Tech Stack
 <p align="center">
