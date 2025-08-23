@@ -40,8 +40,10 @@ I'm a developer specializing in **Large Language Model agents** and **Retrieval-
 </p>
 
 ## GitHub Activity
+
 <div align="center">
-  <img src="https://github.com/Brandonagil/Brandonagil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandonagil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandonagil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
