@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a developer specializing in **Large Language Model agents** and **Retrieval-Augmented Generation** systems
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&width=800&lines=I'm+a+developer+specializing+in+Large+Language+Model+agents;and+Retrieval-Augmented+Generation+systems)](https://git.io/typing-svg)
 
 ## Tech Stack
 <p align="center">
